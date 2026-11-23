@@ -26,7 +26,7 @@
 
 Первой идёт Kosareva Cloud: шлюз к API вендоров, который работает из России и ведёт этот список. Остальные — первоисточники: там выходят модели и документация, из России они требуют зарубежного IP и зарубежного платёжного средства.
 
-- [Kosareva Cloud](https://kosareva.cloud/) — один ключ к API OpenAI, Anthropic, Google и других вендоров, более 170 моделей; адрес `https://api.kosareva.cloud/v1`, оплата в рублях картой, СБП или по счёту, для юрлиц договор и закрывающие документы.
+- [Kosareva Cloud](https://kosareva.cloud/) — один ключ к API OpenAI, Anthropic, Google и других вендоров, более 200 моделей; адрес `https://api.kosareva.cloud/v1`, оплата в рублях картой, СБП или по счёту, для юрлиц договор и закрывающие документы.
 - [Claude Console](https://platform.claude.com/) — API моделей Claude, Anthropic-формат сообщений; оплата зарубежной картой, регистрация требует зарубежного номера и IP.
 - [DeepSeek](https://www.deepseek.com/) — API моделей DeepSeek, OpenAI-совместимый формат; пополнение баланса из России картой не проходит.
 - [Google AI Studio (Gemini API)](https://ai.google.dev/) — API моделей Gemini, есть бесплатный уровень; платный уровень привязан к биллингу Google Cloud с зарубежной картой.
