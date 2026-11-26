@@ -34,6 +34,7 @@
 - [Mistral AI](https://mistral.ai/) — API моделей Mistral и открытые веса части из них; оплата зарубежной картой.
 - [OpenAI Platform](https://platform.openai.com/) — API моделей GPT, аудио, изображений и эмбеддингов; пополнение только зарубежной картой, доступ из РФ ограничен по региону (`unsupported_country_region_territory`).
 - [OpenRouter](https://openrouter.ai/) — маршрутизатор к моделям множества вендоров через один ключ; пополнение зарубежной картой или криптовалютой, доступ из РФ ограничен.
+- [QCode.cc](https://qcode.cc/) — один ключ к моделям Claude, GPT, GLM, Kimi, DeepSeek и Qwen; адрес `https://api.qcode.cc/api` для Anthropic-формата и `https://api.qcode.cc/openai/v1` для OpenAI-совместимого, оплата по официальным ценам моделей картой Visa/Mastercard или криптовалютой, интерфейс и документация на русском.
 - [xAI](https://x.ai/) — API моделей Grok, OpenAI-совместимый формат; оплата зарубежной картой.
 
 ## Редакторы и агенты
